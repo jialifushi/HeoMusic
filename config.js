@@ -1,5 +1,5 @@
-var userId = "619Hdb6ErV2";
-var userServer = "kugou";
+var userId = "698621738";
+var userServer = "netease";
 var userType = "playlist";
 // var localMusic = [{
 //     name: '重生之我在异乡为异客',
