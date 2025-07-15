@@ -1,5 +1,5 @@
 {
-  "name": "heomusic", // 你的 Worker 名称
+  "name": "heo-music", // 你的 Worker 名称
   "compatibility_date": "2025-07-15", // 兼容性日期，使用日志中的日期
   "assets": {
     "directory": "." // 你的资源目录的路径（这里假设 index.html 位于项目根目录）
