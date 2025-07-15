@@ -1,4 +1,4 @@
-var userId = "461081057";
+var userId = "619Hdb6ErV2";
 var userServer = "kugou";
 var userType = "playlist";
 // var localMusic = [{
