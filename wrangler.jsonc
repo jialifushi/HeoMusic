@@ -1,0 +1,8 @@
+{
+  "name": "heomusic", // 你的 Worker 名称
+  "compatibility_date": "2025-07-15", // 兼容性日期，使用日志中的日期
+  "assets": {
+    "directory": "./HeoMusic", // 你的资源目录的路径
+    "include": ["*.html", "*.css", "*.js", "*.png", "*.jpg", "*.svg"] // 包含的文件类型
+  }
+}
